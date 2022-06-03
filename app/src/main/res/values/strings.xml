@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SolarSystem</string>
+    <string name="weight_calculation_app">Weight-Planet Calculator</string>
+    <string name="enter_weight">Please, enter your weight</string>
+    <string name="you_here">You are here!</string>
+    <string name="mercury">Mercury</string>
+    <string name="venus">Venus</string>
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="saturn">Saturn</string>
+    <string name="uranus">Uranus</string>
+    <string name="neptune">Neptune</string>
+    <string name="description">Description</string>
+    <string name="year_length">Year Length</string>
+    <string name="flight_time">Flight Time</string>
+    <string name="weight_on_planet">Your weight on the current planet</string>
+    <string name="mars_satellites">Satellites of Mars</string>
+    <string name="jupiter_satellites">Satellites of Jupiter</string>
+    <string name="saturn_satellites">Satellites of Saturn</string>
+    <string name="uranus_satellites">Satellites of Uranus</string>
+    <string name="neptune_satellites">Satellites of Neptune</string>
+    <string name="deimos">Deimos</string>
+    <string name="phobos">Phobos</string>
+    <string name="io">Io</string>
+    <string name="europa">Europa</string>
+    <string name="ganymede">Ganymede</string>
+    <string name="enceladus">Enceladus</string>
+    <string name="iapetus">Iapetus</string>
+    <string name="titan">Titan</string>
+    <string name="ariel">Ariel</string>
+    <string name="miranda">Miranda</string>
+    <string name="triton">Triton</string>
+    <string name="proteus">Proteus</string>
+</resources>
